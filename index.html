@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="pt-BR">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#244d3b">
+  <meta name="description"
+    content="Aprenda o básico de computador, celular e internet. Aulas curtas, atividades e dicas para usar a tecnologia com mais confiança.">
+  <title>Aprender Digital — Tecnologia no seu ritmo</title>
+  <link rel="icon" href="assets/img/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/css/styles.css">
+  <script src="assets/js/conteudos.js" defer></script>
+  <script src="assets/js/dados.js" defer></script>
+  <script src="assets/js/app.js" defer></script>
+</head>
+
+<body>
+  <a class="skip-link" href="#conteudo">Pular para o conteúdo</a>
+  <header class="site-header">
+    <div class="header-inner">
+      <a class="brand" href="#inicio" aria-label="Aprender Digital — início">
+        <img src="assets/img/favicon.svg" alt="" width="38" height="38">
+        <span>aprender<span class="brand-accent">digital</span></span>
+      </a>
+      <nav aria-label="Navegação principal" id="main-nav">
+        <a href="#aulas" data-nav="aulas">Aulas</a>
+        <a href="#praticar" data-nav="praticar">Praticar</a>
+        <a href="#progresso" data-nav="progresso">Meu progresso</a>
+        <a href="#avaliar" data-nav="avaliar">Avaliar</a>
+      </nav>
+      <div class="access-tools" aria-label="Opções de leitura">
+        <button id="font-toggle" type="button" title="Aumentar tamanho do texto"
+          aria-label="Aumentar texto. Tamanho atual: normal">A<span aria-hidden="true">+</span></button>
+        <button id="contrast-toggle" type="button" title="Ativar alto contraste" aria-label="Alto contraste"
+          aria-pressed="false"><span aria-hidden="true">◐</span></button>
+      </div>
+    </div>
+  </header>
+  <div id="storage-warning" class="storage-warning" role="status" hidden>Este navegador não permitiu salvar os dados.
+    Você pode estudar normalmente, mas o progresso será perdido ao fechar a página. Baixe sua avaliação antes de sair.
+  </div>
+  <main id="conteudo" tabindex="-1"></main>
+  <footer class="site-footer">
+    <div class="footer-inner">
+      <a class="brand" href="#inicio"><img src="assets/img/favicon.svg" alt="" width="30"
+          height="30"><span>aprender<span class="brand-accent">digital</span></span></a>
+      <p>Pequenos passos. Novas possibilidades.</p>
+      <div><a href="#sobre">Sobre o projeto</a><a href="#ajuda">Preciso de ajuda</a></div>
+    </div>
+    <div class="footer-note">Aprendizado gratuito, no seu ritmo. Seu progresso fica neste navegador.</div>
+  </footer>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+  <dialog id="confirm-dialog" aria-labelledby="confirm-title" aria-describedby="confirm-description">
+    <h2 id="confirm-title">Apagar os dados deste navegador?</h2>
+    <p id="confirm-description"></p>
+    <div class="button-row"><button type="button" class="button secondary" id="confirm-cancel">Cancelar</button><button
+        type="button" class="button danger" id="confirm-accept">Apagar dados</button></div>
+  </dialog>
+  <noscript>
+    <div class="noscript">
+      <h1>Aprender Digital</h1>
+      <p>Ative o JavaScript do navegador para acessar as aulas e atividades desta plataforma. Você também pode consultar
+        os <a href="https://cartilha.cert.br/">materiais do CERT.br sobre segurança na internet</a>.</p>
+    </div>
+  </noscript>
+</body>
+
+</html>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="440" viewBox="0 0 560 440" role="img" aria-labelledby="title desc">
+  <title id="title">Aprender no computador e no celular</title><desc id="desc">Ilustração de um computador com uma aula aberta, um celular e símbolos de comunicação e segurança.</desc>
+  <ellipse cx="282" cy="385" rx="226" ry="25" fill="#dbe4d2"/>
+  <path d="M74 189c-24-74 36-143 124-133 77-62 208-6 213 67 78 23 107 112 61 171-52 77-180 82-254 41-87 17-155-58-144-146Z" fill="#e6edcf"/>
+  <path d="M91 298h370M118 328h315" stroke="#d0ddbc" stroke-width="2" stroke-dasharray="5 8"/>
+  <g transform="rotate(-3 264 228)"><rect x="109" y="110" width="312" height="220" rx="16" fill="#244d3b"/>
+  <rect x="120" y="122" width="290" height="192" rx="6" fill="#fffef7"/>
+  <path d="M120 147h290" stroke="#e3e8dc"/>
+  <circle cx="133" cy="135" r="3" fill="#7d9d79"/><circle cx="144" cy="135" r="3" fill="#c7d8af"/><circle cx="155" cy="135" r="3" fill="#e5edce"/>
+  <rect x="136" y="161" width="74" height="138" rx="6" fill="#eff3e7"/>
+  <rect x="146" y="176" width="47" height="6" rx="3" fill="#789571"/><rect x="146" y="195" width="50" height="5" rx="2" fill="#c3d2b4"/><rect x="146" y="213" width="41" height="5" rx="2" fill="#c3d2b4"/>
+  <rect x="223" y="161" width="171" height="77" rx="7" fill="#dcebaf"/>
+  <circle cx="307" cy="199" r="20" fill="#244d3b"/><path d="m303 189 14 10-14 10Z" fill="#fff"/>
+  <rect x="223" y="250" width="126" height="7" rx="3" fill="#45634a"/><rect x="223" y="266" width="154" height="5" rx="2" fill="#c4cfbc"/><rect x="223" y="279" width="141" height="5" rx="2" fill="#c4cfbc"/>
+  <path d="M95 330h340l40 28c0 9-8 13-17 13H77c-9 0-17-4-17-13Z" fill="#8aa187"/><path d="M236 331h61l9 12h-79Z" fill="#bdcdb0"/></g>
+  <g transform="rotate(7 411 298)"><rect x="365" y="226" width="95" height="166" rx="17" fill="#244d3b"/><rect x="372" y="234" width="81" height="148" rx="11" fill="#fffef7"/><rect x="394" y="238" width="37" height="7" rx="3" fill="#244d3b"/><rect x="383" y="264" width="59" height="50" rx="8" fill="#e6edcf"/><path d="m397 287 9 9 20-23" stroke="#456c40" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"/><rect x="383" y="325" width="55" height="6" rx="3" fill="#c4cfbc"/><rect x="383" y="339" width="42" height="5" rx="2" fill="#c4cfbc"/><rect x="383" y="354" width="59" height="16" rx="5" fill="#244d3b"/></g>
+  <g transform="rotate(-12 93 103)"><rect x="56" y="68" width="73" height="68" rx="18" fill="#fffef7" stroke="#dde4d6"/><path d="M73 87h40v29H73Zm0 1 20 16 20-16" fill="none" stroke="#446b50" stroke-width="3" stroke-linejoin="round"/></g>
+  <g transform="rotate(9 444 111)"><rect x="408" y="77" width="72" height="68" rx="18" fill="#f4daa4"/><path d="m444 91 16 6v14c0 11-16 20-16 20s-16-9-16-20V97Z" fill="none" stroke="#6a542b" stroke-width="3"/><path d="m437 108 5 5 9-10" fill="none" stroke="#6a542b" stroke-width="3" stroke-linecap="round"/></g>
+  <path d="m211 39 2 9 9 2-9 2-2 9-2-9-9-2 9-2ZM477 217l2 8 8 2-8 2-2 8-2-8-8-2 8-2Z" fill="#789571"/>
+</svg>

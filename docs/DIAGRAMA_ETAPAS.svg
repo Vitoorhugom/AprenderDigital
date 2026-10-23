@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1110" viewBox="0 0 1000 1110" role="img" aria-labelledby="title desc">
+<title id="title">Etapas planejadas do projeto Aprender Digital</title><desc id="desc">Levantamento, planejamento, implementação, teste com participantes, análise, decisão sobre ajustes e documentação. Quando houver ajustes, o fluxo volta à implementação e ao teste.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0 0 8 4 0 8Z" fill="#34533e"/></marker></defs>
+<rect width="1000" height="1110" fill="#fff"/>
+<g font-family="Arial,sans-serif" fill="#1d3528" text-anchor="middle">
+<text x="500" y="52" font-size="28" font-weight="700">Etapas planejadas do projeto</text><text x="500" y="83" font-size="18" fill="#53634e">Aprender Digital · atualizar conforme a execução real</text>
+<g stroke="#34533e" stroke-width="2" fill="#f0f4e9"><rect x="250" y="120" width="500" height="85" rx="14"/><rect x="250" y="250" width="500" height="85" rx="14"/><rect x="250" y="380" width="500" height="85" rx="14"/><rect x="250" y="510" width="500" height="85" rx="14"/><rect x="250" y="640" width="500" height="85" rx="14"/><path d="m500 760 160 75-160 75-160-75Z"/><rect x="250" y="965" width="500" height="85" rx="14"/></g>
+<g font-size="20" font-weight="700"><text x="500" y="152">Levantamento das necessidades</text><text x="500" y="282">Planejamento da solução</text><text x="500" y="412">Implementação da plataforma</text><text x="500" y="542">Aplicação e testes com participantes</text><text x="500" y="672">Análise dos resultados</text><text x="500" y="829">Há ajustes</text><text x="500" y="855">necessários?</text><text x="500" y="997">Documentação e apresentação</text></g>
+<g font-size="17"><text x="500" y="181">Público, dificuldades e inclusão digital</text><text x="500" y="311">Conteúdos, requisitos e etapas</text><text x="500" y="441">HTML, CSS, JavaScript e registro no GitHub</text><text x="500" y="571">Um familiar no celular e outro no computador</text><text x="500" y="701">Dificuldades, avaliações e oportunidades de melhoria</text><text x="500" y="1026">Diagrama, evidências, links, vídeo e relatório</text></g>
+<g fill="none" stroke="#34533e" stroke-width="2.5" marker-end="url(#arrow)"><path d="M500 205v45"/><path d="M500 335v45"/><path d="M500 465v45"/><path d="M500 595v45"/><path d="M500 725v35"/><path d="M500 910v55"/><path d="M660 835h205V422H750"/></g>
+<text x="545" y="941" font-size="18">Não</text><text x="768" y="818" font-size="18">Sim</text>
+<text x="500" y="1085" font-size="16" fill="#53634e">Fonte: elaboração para o projeto. Não representa etapas já concluídas.</text>
+</g></svg>
