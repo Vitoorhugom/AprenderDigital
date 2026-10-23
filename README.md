@@ -51,12 +51,6 @@ Envie os arquivos e as pastas descompactados. Alterações feitas no VS Code pre
 
 Os dados são salvos no `localStorage`, com a chave `aprender-digital-v1`. Cada navegador mantém seus próprios registros, sem sincronização ou envio automático para um servidor. Se os dados do navegador forem apagados, os registros locais poderão ser perdidos.
 
-O formulário de avaliação não solicita nome, e-mail ou telefone. O campo de sugestões orienta o participante a não informar dados pessoais.
-
-Na aplicação do projeto, está prevista a participação de um familiar no celular e outro no computador. Após cada avaliação, o responsável deve baixar o arquivo no aparelho utilizado. A exportação contém somente os registros daquele navegador; a quantidade de registros locais não comprova a quantidade de participantes.
-
-A aplicação permite até 100 avaliações por navegador. Guarde os arquivos exportados antes de apagar os registros ou reiniciar a coleta. Mantenha os resultados reais dos participantes separados do código publicado no GitHub.
-
 ## Testes automatizados
 
 Com o Node.js instalado, execute estes comandos no terminal, dentro da pasta principal do projeto:
